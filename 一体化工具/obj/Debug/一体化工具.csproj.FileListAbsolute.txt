@@ -10,3 +10,6 @@ F:\VS\一体化工具\一体化工具\obj\Debug\一体化工具.pdb
 F:\百度云\百度云同步盘\工作文档\VS\一体化工具\一体化工具\bin\Debug\一体化工具.exe.config
 F:\百度云\百度云同步盘\工作文档\VS\一体化工具\一体化工具\obj\Debug\一体化工具.exe
 F:\百度云\百度云同步盘\工作文档\VS\一体化工具\一体化工具\obj\Debug\一体化工具.pdb
+F:\github\newtest\一体化工具\bin\Debug\一体化工具.exe.config
+F:\github\newtest\一体化工具\obj\Debug\一体化工具.exe
+F:\github\newtest\一体化工具\obj\Debug\一体化工具.pdb
