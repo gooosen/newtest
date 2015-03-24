@@ -1,0 +1,12 @@
+F:\VS\一体化工具\一体化工具\bin\Debug\一体化工具.exe.config
+F:\VS\一体化工具\一体化工具\obj\Debug\一体化工具.csprojResolveAssemblyReference.cache
+F:\VS\一体化工具\一体化工具\obj\Debug\一体化工具.Form1.resources
+F:\VS\一体化工具\一体化工具\obj\Debug\一体化工具.Properties.Resources.resources
+F:\VS\一体化工具\一体化工具\obj\Debug\一体化工具.csproj.GenerateResource.Cache
+F:\VS\一体化工具\一体化工具\bin\Debug\一体化工具.exe
+F:\VS\一体化工具\一体化工具\bin\Debug\一体化工具.pdb
+F:\VS\一体化工具\一体化工具\obj\Debug\一体化工具.exe
+F:\VS\一体化工具\一体化工具\obj\Debug\一体化工具.pdb
+F:\百度云\百度云同步盘\工作文档\VS\一体化工具\一体化工具\bin\Debug\一体化工具.exe.config
+F:\百度云\百度云同步盘\工作文档\VS\一体化工具\一体化工具\obj\Debug\一体化工具.exe
+F:\百度云\百度云同步盘\工作文档\VS\一体化工具\一体化工具\obj\Debug\一体化工具.pdb
